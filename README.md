@@ -1,5 +1,10 @@
 # MiniatureGolf
-Miniature golf Unity game with 4 holes
+A 4-hole miniature golf game created with Unity and Blender
+
+## Table of Contents
+* [Screenshots](README.md#screenshots)
+* [Download and Play](README.md#download-and-play)
+* [Development Setup](README.md#development-setup)
 
 ## Screenshots
 <p align="center">
