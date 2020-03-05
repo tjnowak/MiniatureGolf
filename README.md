@@ -18,7 +18,7 @@ Miniature golf Unity game with 4 holes
   <img src="Screenshots\Hole3.jpg" alt="Hole 3">
 </p>
 <p align="center">
-  <img src="Screenshots\Hole 4.jpg" alt="Hole 4">
+  <img src="Screenshots\Hole4.jpg" alt="Hole 4">
 </p>
 <p align="center">
   <img src="Screenshots\Results.jpg" alt="Results">
@@ -31,4 +31,4 @@ The game is available for [Windows](https://github.com/tjnowak/MiniatureGolf/rel
 1. Clone/[download](https://github.com/tjnowak/MiniatureGolf/archive/master.zip) this repo
 2. Download and install Unity [2017.1.0f3](https://unity3d.com/get-unity/download/archive) (may need to modify source code for newer versions)
 3. Open the game in Unity (ignore the "Error loading launcher" error if you have it)
-4. Run the game by building it (text doesn't display properly if you just click the ```Play``` button). Choose ```File -> Build Settings```, select the platform you are on, and click ```Build And Run```. Run the game with a screen resolution of 1366 x 768.
+4. Run the game by building it (text doesn't display properly if you just click the **Play** button). Choose **File -> Build Settings**, select the platform you are on, and click **Build And Run**. Run the game with a screen resolution of 1366 x 768.
